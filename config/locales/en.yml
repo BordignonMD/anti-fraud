@@ -1,0 +1,9 @@
+en:
+  hello: "Hello world"
+  transactions:
+    fraudulent: "Transaction flagged as fraudulent"
+    existing_id: "The transaction with this ID already exists."
+    excessive_transactions: "Excessive number of transactions in a short period."
+    amount_limit_exceeded: "The transaction amount exceeds the allowed limit within a 24-hour period."
+    previous_chargeback: "The user had a previous chargeback."
+    save_failure: "Failed to save the transaction."
