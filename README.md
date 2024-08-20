@@ -155,3 +155,8 @@ docker-compose up --build
 docker exec -it web /bin/bash
 rails db:migrate
 ```
+
+### Deploy
+
+The application is deployed on [Render](https://render.com/). You can access the deployed application at [https://anti-fraud.onrender.com/transactions](https://anti-fraud.onrender.com/transactions).
+
